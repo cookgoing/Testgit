@@ -10,3 +10,6 @@
 我现在试试 git rm --cached
 	这个命令也不行，虽然本地不删除；但是远端仓库会删除
 
+
+我试试另一个命令 git update-index [--[no-]skip-worktree] 
+	这个命令跟 assume-unchanged 很像
