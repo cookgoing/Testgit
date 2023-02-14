@@ -17,3 +17,4 @@
 
 测试 skip-worktree 和 assume-unchanged 区别
 	skip-worktree: 即便我本地设置了，从远端还能拉取到变化
+	assume-unchanged：也能从远端拉取到变化
