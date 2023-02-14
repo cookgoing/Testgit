@@ -10,3 +10,6 @@
 我现在试试 git rm --cached
 	这个命令也不行，虽然本地不删除；但是远端仓库会删除
 
+
+
+测试 skip-worktree 和 assume-unchanged 区别
