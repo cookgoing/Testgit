@@ -14,4 +14,6 @@
 
 我试试另一个命令 git update-index [--[no-]skip-worktree] 
 	这个命令跟 assume-unchanged 很像
+
 测试 skip-worktree 和 assume-unchanged 区别
+	skip-worktree: 即便我本地设置了，从远端还能拉取到变化
